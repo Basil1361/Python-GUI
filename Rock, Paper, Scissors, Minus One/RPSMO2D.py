@@ -65,10 +65,10 @@ def final_decision():
     elif (x == 'r' and computer_final == 's') or \
          (x == 'p' and computer_final == 'r') or \
          (x == 's' and computer_final == 'p'):
-        print("YOU WIN! 🎉")
+        print("YOU WIN!")
         result = "win"
     else:
-        print("YOU LOSE! 😢")
+        print("YOU LOSE!")
         result = "lose"
     return result
 final_decision()
