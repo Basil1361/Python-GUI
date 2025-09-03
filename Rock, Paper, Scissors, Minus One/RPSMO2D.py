@@ -38,7 +38,6 @@ def Computer(n):
 def player_choice_2():
     player_choice = RPS(2)
     computer_letters = Computer(2)
-    print(f"Your choices are {player_choice}")
     
     # Player selects one choice to keep
     while True:
