@@ -1,1 +1,0 @@
-game\Pygame\graphics\Fly\Fly1.png
